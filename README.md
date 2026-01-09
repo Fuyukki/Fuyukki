@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/boysmell-felix-argyle.gif" width="80%" height="450px" />
+<img src="assets/2a6f9c0f3aa775d7dff29f36f3f1589b - Copy.jpg" />
 
 <div style="width: 80%; margin-top: 10px;">
   <br>
